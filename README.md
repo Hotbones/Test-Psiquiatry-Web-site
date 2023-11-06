@@ -61,3 +61,7 @@ Resultado Navegación correcta y no presenta errores
 Verificar Formulario de Novedades:
 
 Resultado Navegación correcta y no presenta errores
+
+![Test with playwrighta](https://github.com/Hotbones/Test-Automation---Psiquiatry-Web-site/assets/105388226/1c4a740d-9f73-40a0-9af4-ff302e7f64c1)
+![Test with playwright](https://github.com/Hotbones/Test-Automation---Psiquiatry-Web-site/assets/105388226/9c839082-9c27-47e7-8a07-a68b4885297f)
+
