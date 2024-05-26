@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-
+         
 test('1 - Verificar la Carga de la Página Principal y Explorar la Navegación', async ({ page }) => {
 // create a new todo locator
 console.log('Verificar la Carga de la Página Principal');
